@@ -5,3 +5,5 @@ MyFile.ext
 my-folder/ 
 
 log/
+
+*.orig
