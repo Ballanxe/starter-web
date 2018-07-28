@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Alberto Rincones alberto@gmail.com @rinconegocio
 
 # THANKS
 
