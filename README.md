@@ -11,7 +11,7 @@ This is a example to show diferent parts of the github repository and various co
 
 ## Puropose
 
-Adding purpose to create a merge conflict in master
+Adding purpose to create a merge conflict in master. Adding a line for rebasing example
 
 ## How to contribute
 
