@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> CAMBIAMOS ALGO ACA EN GRACIAS
 
 # TECHNOLOGY COLOPHON
 
