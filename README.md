@@ -17,6 +17,8 @@ Adding purpose to create a merge conflict in master. Adding a line for rebasing 
 
 ## Deployment
 
+2014 all right resrved
+
 ## Another Merge 
 
 ## The L
